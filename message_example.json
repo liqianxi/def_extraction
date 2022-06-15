@@ -1,0 +1,241 @@
+{
+  "took" : 63,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 3,
+    "successful" : 3,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 300,
+      "relation" : "eq"
+    },
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "61a12331-e374-4022-900e-b21e6109a385",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "Real Estate Act\n\nRules\n\nThe Rules, 2.1  40 inclusive, come into force on July 1, 2006 and the remainder of the Rules come into effect on October 1, 2006\n These revised Rules are current as of November 30, 2020\n\n Table of Contents\n\ns.1 Interpretation\n\n6\n\nPart 1 Licences\n\nDivision 1  Classes of Licences\n\ns.2\n\nClasses of real estate brokers\n\n10\n\ns.2.1 Temporary Condominium Manager Licence\n\n10\n\ns.3\n\n Classes of mortgage brokers\n\n11\n\ns.4\n\nRepealed (November 2020) Resolution 2011-11\n\n12\n\ns.4.1 Classes of property managers\n\n12\n\nDivision 2  Licence Required\n\ns.5\n\n Real estate brokerage licence\n\n13\n\n s.6\n\nReal estate broker, associate broker and associate licence\n\n13\n\ns.7\n\nMortgage brokerage licence\n\n13\n\ns.8\n\n Mortgage broker and associate licence\n\n13\n\ns.9\n\nRepealed (November 2020) Resolution 2011-11\n\n14\n\ns.9.1 Property management brokerage licence\n\n14\n\ns.9.2 Property manager authorization\n\n14\n\ns.10\n\n Termination of licence\n\n14\n\ns.11\n\nWithdrawal from industry membership\n\n15\n\ns.12\n\nLifetime licensing prohibition\n\n15\n\nDivision 3  Licence Eligibility\n\ns.13\n\n Registered business office\n\n15\n\ns.14\n\nIneligibility for licence\n\n15\n\ns.15\n\nBankruptcy\n\n16\n\nDivision 4  Licence Requirements for Individuals\n\n s.16\n\nEducation, examination and other requirements\n\n16\n\ns.16.1 Education code of conduct\n\n17\n\n s.17\n\nReal estate broker, mortgage broker, and property manager examination requirements 17\n\ns.18\n\nRepealed (November 2020) Resolution 2011-11\n\n17\n\ns.19\n\nSuitability review\n\n17\n\ns.20\n\nLicence application\n\n17\n\ns.21\n\nNotice of changes to information in support of licence application\n\n18\n\n s.22\n\nLicence terms, conditions and restrictions\n\n18\n\n s.23\n\nRe-licensing education program requirements\n\n18\n\nLegislation/Rules\n\nNovember 23, 2020\n\n Page 1 of 69\n\nDivision 5  Licences\n\ns.24\n\nLicence\n\n18\n\n s.25\n\nExpiry\n\n18\n\ns.26 \n\n Cancellation\n\n18\n\n s.27\n\nLicence application\n\n18\n\n s.28\n\nApplication from previous licensee\n\n18\n\n s.29\n\nRegistration restrictions\n\n18\n\nDivision 6  Licence Requirements for Brokerages\n\ns.30\n\nBrokerage application\n\n19\n\ns.31\n\n Registered broker\n\n19\n\ns.32 \n\nNotice requirements\n\n20\n\n s.33\n\nChange of fiscal year end\n\n20\n\nDivision 7  Refusal, Suspension & Cancellation of a Licence\n\n s.34\n\nRefusal of licence\n\n20\n\ns.35\n\nSuspension or cancellation of brokerage licence\n\n21\n\ns.36\n\nTemporary continuation of brokerage licence\n\n21\n\n s.37\n\n Brokerage ceasing to carry on business\n\n21\n\n s.38.1 Suspension or cancellation of licence\n\n22\n\nDivision 8  Review of Registrar's Decision",
+          "clientIdentity" : "area_demo",
+          "name" : "Real-Estate-Act-Rules-Current-to-November-30-2020.pdf",
+          "file_path" : "file-upload/4670b0e256f045149cec8f11e74eca71_Real-Estate-Act-Rules-Current-to-November-30-2020.pdf",
+          "added_time" : "2022-02-23 16:27:11.294656",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 2,
+            "page_start_offsets" : {
+              "1" : 0,
+              "2" : 1751
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "b361929e-d923-42ec-b55d-18e41814b9b7",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "Real Estate Act, Bylaws\nNovember 30, 2020\nTable of Contents\nInterpretation............................................................................................................................ 3\nPart 1  Board Members .......................................................................................................... 3 Appointment of Board Members................................................................................................. 3 Board Members' Duties.............................................................................................................. 4 Remuneration ............................................................................................................................ 4 Officers of the Board .................................................................................................................. 5 Committee Members.................................................................................................................. 5 Duties of Board Chair and Vice-Chair ........................................................................................ 5\nPart 1.1  Industry Council Members...................................................................................... 6 Election of Industry Council Members ........................................................................................ 6 Industry Council Members' Duties.............................................................................................. 6 Remuneration ............................................................................................................................ 7 Officers of Industry Councils ...................................................................................................... 7 Duties of an Industry Council Chair and Vice-Chair.................................................................... 8\nPart 2  Board and Industry Council Proceedings ................................................................ 8 Quorum...................................................................................................................................... 8 Board & Industry Council Resolution Instead of Meeting ............................................................ 9 Board & Industry Council Meetings ............................................................................................ 9 Rules of Procedure .................................................................................................................... 9 Establishing Committees............................................................................................................ 9 Records of Proceedings ............................................................................................................ 10 Irregular Appointments.............................................................................................................. 11\nPart 3  Administration........................................................................................................... 11 Appointment of Executive Director ............................................................................................ 11 Duties of Executive Director ...................................................................................................... 11 Appointment of Registrar .......................................................................................................... 12 Duties of Registrar ....................................................................................................................12 Delegation ................................................................................................................................. 13 Policies and Procedures ........................................................................................................... 13 Signing Authority....................................................................................................................... 13 Fiscal Year ................................................................................................................................13 Accounts ...................................................................................................................................13 Operating Budget...................................................................................................................... 13 Capital Budget .......................................................................................................................... 13 Expenditures ............................................................................................................................. 14 Investments ..............................................................................................................................14\n\n Last amended November 30, 2020\n\n Page 1\n\nBorrowing for Operating Purposes ............................................................................................ 14 Borrowing for Capital Purposes................................................................................................. 14 Recovery of Costs.....................................................................................................................15 Indemnification of Board and Industry Council members........................................................... 16\n Part 4  Administrative Penalties........................................................................................... 16 Designation of Administrative Penalties .................................................................................... 16 Notice of Administrative Penalty................................................................................................ 17 Time to Pay............................................................................................................................... 17\n Part 5  Hearing and Appeal Panels ...................................................................................... 17 Hearing and Appeal Practice and Procedure Guidelines ...........................................................",
+          "clientIdentity" : "area_demo",
+          "name" : "RECA - Bylaws Amended - 11.30.2020.pdf",
+          "file_path" : "file-upload/41fedeb2768240ed8f9220c45f21f919_RECA - Bylaws Amended - 11.30.2020.pdf",
+          "added_time" : "2022-02-22 22:15:36.104946",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 2,
+            "page_start_offsets" : {
+              "1" : 0,
+              "2" : 4939
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "2face847-27ae-4564-9906-7edf07ab9e64",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "﻿\nTypes of Construction Defects | Travelers Insurance\nskip to main content Open mobile menu\n\nTravelers Logo\nAbout\n Careers\nAgents\nInvestors\nSustainability\nContact Us\nLog in\n\nSearch\nSubmit search\n For Individuals\n\n For Individuals\n\nOverview\n\nProducts\n\n Car\n\nHome\n\n Renters\n\nCondo\n\nLandlord\n\nBoat & Yacht\n\nMotorcycle\n\n Travel\n\nPet\n\n Weddings\n\nUmbrella\n\nAll Products\nPrepare & Prevent\n\nInsurance 101\n\n Home Central\n\n Travelers Garage\n\nManaging Through COVID-19\n Affinity Group Discount\n\nOnline Service\n\n Pay Your Bill\nGet a Quote\n\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nFor Business\n\n For Business\n\nOverview\n\nProducts & Solutions\n\n For Business\nProducts & Solutions\n\nOverview\n\nBoiler & Machinery\n\nCommercial Auto & Trucking\n\n Cyber\n\nEnvironmental Liability\n\nExcess Casualty & Umbrella\n\n General Liability\n\nGlobal Insurance\n\n Inland Marine\n\nManagement & Professional Liability\n\nOcean Marine\n\n Property\n\nBusiness Owner's Policy\n\nSurety Bonds\n\nWorkers Compensation\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nIndustries\n\n For Business\nIndustries\n\nOverview\n\n Agribusiness\n\nArchitects, Engineers & Surveyors\n\nAuto & Truck Dealers\n\nBusiness & Professional Services\n\nConstruction\n\nEducation\n\nEnergy & Renewable\n\n Equipment Dealers\n\nFinancial Institutions\n\nFood Services\n\nHealth & Related Services\n\n Hospitality & Recreation\n\nManufacturing\n\nMarine Industries\n\nMuseums & Fine Art \n\nNon-Profit\n\n Oil & Gas\n\nPublic Entities\n\nReal Estate\n\n Retail\n\nTechnology\n\nTransportation\n\nWholesale & Distribution\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nServices\n\n For Business\nServices\n\nOverview\n\n Risk Control\n\nClaim\n\n Premium Audit\n\nOnline Customer Tools\n\nRisk Management Information Services\n\n Travelers Client Advantage\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nSmall Business\n\n For Business\nSmall Business\n\nOverview\n\nAutomobile Insurance\n\nBusiness Owner's Policy\n\n Data Breach\n\nEmployment Practices Liability\n\nProfessional Insurance\n\nUmbrella Insurance\n\nWorkers Compensation Inurance\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nLarge Business\n\n For Business\nLarge Business\n\nOverview\n\n Casualty\n\n Cyber\n\nManagement & Professional Liability\n\nProperty\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nMultinational Business\n\nPrepare & Prevent\n\nFor Business\nPrepare & Prevent\n\n By Topic\n\n By Industry\n\n Navigating Your Business Through COVID-19\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nFind an Agent\n\nReport a Claim\n\nPay Your Bill\nClaim Center\n\nClaim Center\n\nClaim Center\n\n Should I File a Claim? \n\nReport a Claim\n\nRoadside Assistance\n\nFind a Service Provider\n\nCheck Your Claim Status\n\n Manage Your Claim Experience\n\nClaim Reporting Next Steps\n\nClaim Guide Library\n\nWorkers Compensation Resources\nClaim Capabilities\n",
+          "clientIdentity" : "area_demo",
+          "name" : "Types of Construction Defects _ Travelers Insurance.html",
+          "file_path" : "file-upload/a1f4cc27fc1b46f9a03f23f8c23ea093_Types of Construction Defects _ Travelers Insurance.html",
+          "added_time" : "2022-02-23 16:23:29.378291",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "5a3fad19-f1e2-4358-adb3-cea123f8b840",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "﻿\n\nZero Carbon\nSkip to main content\n Loading\nFrançaisCart Store\nToggle search\nToggle navigation\nlanguage\nEnglish\nFrançais\nKeyword Search\nSign In\n AboutToggle\n\nMission and VisionCorporate ReportsBoard of DirectorsToggle\n\nBoard Elections\n\nCareersNational Sponsorship OpportunitiesCanada Coalition for Green SchoolsToggle\n\n What is a Green School?Project ideas and resourcesGreen Apple Day of Service ProgramGreenest School in Canada CompetitionToggle \n\n Winning schools: 2019Winning schools: 2018Winning schools: 2017Winning schools: 2016Winning schools: 2015Winning schools: 2014\nCaGBC AwardsToggle\n\nAndy Kesteloo Student AwardPast Award WinnersPhoto Gallery\n\n Terms & ConditionsNational Media PartnersToggle\n\n BC FocusPrairie FocusOntario FocusAtlantic Focus\n\nNews and Updates\n\n AdvocacyToggle\n\nMarket Impact ReportCOVID-19 Response & RecoveryCaGBC ResearchToggle\n\nTrading Up: How Alberta's Trades Can Build a Zero Carbon Future (2020)Accelerating to Zero: Upskilling for Engineers... (2020)Making The Case For Building To Zero CarbonTrading Up - Low carbon building skills gap analysis (2019)LEED Impact Report: Canada (2018)Roadmap for Retrofits in Canada II (2018)Roadmap for Retrofits in Canada (2017)Building Solutions to Climate Change Report (2016)Healthier Buildings in Canada Report (2016)Energy Benchmarking in Canada Framework (2016)Green Building in Canada Market Impacts Report (2016)LEED in Motion: Canada (2017)Green Building in Canada Report (2014)\n\n Disclosure ChallengeCaGBC Provincial and Federal SubmissionsGreen Building ToolkitHealth and WellbeingBuilding RetrofitsDecarbonizing Large BuildingsIndustry Research and ReportsToggle\n\nWorld Green Building Trends 2018Value of Environmental Certification: CRE Market (2017)2017 Sustainable Report2017 GRESB Real Estate Assessment\n MembershipToggle\n\nBecome a MemberCaGBC Member Referral ProgramMember Logo and Usage GuidelinesMember Code of ConductMembership FAQsMember DirectoryMember BenefitsToggle\n\n For Construction CompaniesFor ManufacturersFor Professional Firms\nProjectsToggle\n\nProject DatabaseCase Studies\n\nLEEDToggle\n\n Why LEED?Toggle\n\nLEED for Owners and Property ManagersLEED for Tenants and EmployeesLEED for HomeownersLEED for Home Builders\n\n",
+          "clientIdentity" : "area_demo",
+          "name" : "Zero Carbon.html",
+          "file_path" : "file-upload/624eef540a3b4fbd9e0e368f71f51718_Zero Carbon.html",
+          "added_time" : "2022-02-23 16:23:41.049864",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "20ca214b-4b68-4f09-b8e3-144ff03b8161",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "﻿html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"\nRole of Personality in Negotiation\n\nToggle navigationLOGINREGISTERFacebookGoogle PlusTwitter\nMSG\nManagement  Study  Guide\n\nHome\n\n Library\n\nCourses\n\nAbout Us\n\n Latest\nLog In\nSign Up\nMSG\nManagement  Study  Guide\n\nHome\n\nLibrary\n\n Courses\n\nAbout Us\n\n Latest\nLog In\nSign Up\n\n Home\nLibrary\n Organizational Behaviour\nNegotiation\nRole of Personality in Negotiation\nRole of Personality in Negotiation\n An impressive personality goes hand in hand with good communication for an effective negotiation. A charming personality is the key to an effective negotiation. \nLet us understand how one’s personality traits help in an effective negotiation. \n\nDuring negotiations an individual must try to be himself. One should not fake things or pretend to be good. If you are not satisfied with the deal, do not pretend that you are happy. It’s better to raise a concern then and there, rather than crib later. Be normal and relax, things will automatically fall into place. \n It’s important to be sincere rather than just being serious. Sincerity is one of the most important personality traits required in negotiation. One has to be sincere for an effective negotiation. Don’t take things casually. Go well prepared for your negotiation. For a business deal, try to study everything related to the deal beforehand. The agenda of the negotiation must be very clear to you. Carry all the related documents which you might require at the time of negotiation. Don’t go just for the sake of it. \nBe honest. Don’t fake things. During negotiations, honesty plays an important role. One should never manipulate his salary to get a hike in the next organization. Don’t speak unnecessary lies just for some money.",
+          "clientIdentity" : "area_demo",
+          "name" : "Role of Personality in Negotiation.html",
+          "file_path" : "file-upload/b833c16299fb45f48bb95f4715a2cd4c_Role of Personality in Negotiation.html",
+          "added_time" : "2022-02-23 16:23:36.059689",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "c7e0b845-0a37-4142-bb21-74742c3175b1",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "﻿\nPractice of Condominium Management - Overview | Rise 360\n\nPractice of Condominium Management0% COMPLETE0% COMPLETEPractice of Condominium Management0% COMPLETE0% COMPLETE0% COMPLETE0% COMPLETEPractice of Condominium ManagementStartDETAILSMoreCaret pointing downDescriptionWelcome to the Alberta Condominium Management Education Consortium (ACMEC).Course OutlineACMEC Disclaimer of Liability and All Rights Reserved0% completeA circle with a colored border representing one's progress through a lesson.topic 1 - INTRODUCTION TO CONDOMINIUM MANAGEMENTCondominium Property Management and the Law0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderOverview of the Condominium Property Act (CPA)0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderAspects of a Condominium0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderExpenses0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderInsurance0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderInformation and Documents0 % completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderReference Documents0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderConclusion0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in ordertopic 2 - CORPORATION, BOARD, AND OWNER RESPONSIBILITIESCondominium Governance0% completeA circle with a colored border representing one's progress through a lesson.",
+          "clientIdentity" : "area_demo",
+          "name" : "Practice of Condominium Management - Overview _ Rise 360.html",
+          "file_path" : "file-upload/48ef140abc874d39ac20c57c5cad5b20_Practice of Condominium Management - Overview _ Rise 360.html",
+          "added_time" : "2022-02-22 22:36:37.522667",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "8f1f6424-d456-4998-856b-76d7431ee83a",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "﻿\nFundamentals of Condominium Management - Overview | Rise 360\n\nFundamentals of Condominium Management0% COMPLETE0% COMPLETEFundamentals of Condominium Management0% COMPLETE0% COMPLETE0% COMPLETE0% COMPLETEFundamentals of Condominium ManagementStartDETAILSMoreCaret pointing downDescriptionWelcome to the Alberta Condominium Management Education Consortium (ACMEC).Course OutlineACMEC Disclaimer of Liability and All Rights Reserved83% completeA circle with a colored border representing one's progress through a lesson.topic 1 - INTRODUCTION TO CONDOMINIUM MANAGEMENTIntroduction0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderWhat is a Condominium?0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderTypes of Condominiums0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderThe Condominium Lifestyle0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderThe Condominium Market 0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderReference Documents0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderConclusion0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in ordertopic 2: The Real Estate Council of Alberta (RECA)What is Self-Regulation?0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderHow RECA Operates0% completeA circle with a colored border representing one's progress through a lesson.",
+          "clientIdentity" : "area_demo",
+          "name" : "Fundamentals of Condominium Management - Overview _ Rise 360.html",
+          "file_path" : "file-upload/4f7110533ac74719a53c9d7b4b5fea8d_Fundamentals of Condominium Management - Overview _ Rise 360.html",
+          "added_time" : "2022-02-22 22:36:39.511951",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "489b16ff-9d24-4bc0-942d-40be35f62792",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "View the current version of this publication at https://open.alberta.ca/publications/resolving-condominium-disputes\n\n Resolving condominium disputes\n This publication is intended to provide general information only and is not a substitute for legal advice. \n\nRcoensdoolvminingiudmispbuotaesrdws ith Condominium corporations are self-governing. \nte Condominium boards are elected by and\naccountable to the owners, who are shareholders in the corporation. \n Every condominium corporation is bound by the\na bylaws it has registered with Land Titles or the\ndefault bylaws in provincial legislation. As a first step in your dispute, you should consult your\nd corporation's bylaws to determine if they address the\nmatter. \n There are also several options in the Condominium\nf Property Act (the Act) for condominium owners who\nfind themselves in a dispute with their board. For example, the Act allows owners to pass an ordinary\no resolution that sets restrictions or provides direction\nto the board. Owners could use this provision when they feel the board is not taking steps to govern the\nt corporation appropriately or is not working in the\nbest interest of the owners. Boards must follow any lawful restriction or direction given through an\nu ordinary resolution. \n In addition, the Act allows the owners to remove a board member, and replace them with another\nO individual until the end of their term, by passing an\n\nalso allow for other instances where a board member can be removed. \n The Act allows owners to call a special general meeting.",
+          "clientIdentity" : "area_demo",
+          "name" : "sa-resolving-condo-disputes-fact-sheet.pdf",
+          "file_path" : "file-upload/587577be9bf947b4b813ddc633168562_sa-resolving-condo-disputes-fact-sheet.pdf",
+          "added_time" : "2022-02-23 16:23:26.017062",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "7a6795f8-4275-4c88-b120-3a840bd212a2",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "﻿\nCondominium Manager Broker Program - Overview | Rise 360\n\n Condominium Manager Broker Program0% COMPLETE0% COMPLETECondominium Manager Broker Program0% COMPLETE0% COMPLETE0% COMPLETE0% COMPLETECondominium Manager Broker ProgramStartDETAILSMoreCaret pointing downDescriptionWelcome to the Alberta Condominium Management Education Consortium (ACMEC).Course OutlineACMEC Disclaimer of Liability and All Rights Reserved0% completeA circle with a colored border representing one's progress through a lesson.topic 1 - Managing ComplianceIntroduction0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderWho is the Broker?0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderBroker and Brokerage Licensing0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderAgency Relationships0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderLegislative Obligations and Managing Expectations of Clients0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderEnsuring Service Agreements are Being Met0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderConflicts Of Interest0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderCollection And Use Of Personal Information0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderInsurance0% completeA circle with a colored border representing one's progress through a lesson. Units must be completed in orderDocument Storage",
+          "clientIdentity" : "area_demo",
+          "name" : "Condominium Manager Broker Program - Overview _ Rise 360.html",
+          "file_path" : "file-upload/66706ebfc8c4489dbfb5c06fcfca857b_Condominium Manager Broker Program - Overview _ Rise 360.html",
+          "added_time" : "2022-02-22 22:36:34.942054",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      },
+      {
+        "_index" : "document",
+        "_type" : "_doc",
+        "_id" : "6c83d5cb-35c3-4686-8fdc-c0c1857eb978",
+        "_score" : 1.0,
+        "_source" : {
+          "text" : "Job Description--Condominium Property Manager (Highlights)\n Position Description\n We are seeking a Condominium Property Manager to join our growing team to oversee a portfolio of properties, as well as providing management of the day-to-day requirements of the property and its Owners. The Property Manager will ensure the units are maintained and managed accordingly; as well as provide a standard of service for the condominium operations. \nWho is Right for the Job?\n An open-minded professional who enjoys a challenge in a fast-paced environment. This person will be driven, energetic and will go above and beyond for their Customers and Clients. Successful Property Managers are dedicated to delivering excellent resident service, while building relationships through regular communication to ensure issues and/or concerns are managed in a timely, professional manner, ensuring long-term relationships. \n If you thrive in managing people and truly making a difference to over 750 Residents, then this position is for you! You will not only have the opportunity to manage operations of many condominium units; you will also be investing time and care into providing value to your Board's and properties. \n Position Responsibilities\n",
+          "clientIdentity" : "area_demo",
+          "name" : "Condomininium Manager - Job Description.pdf",
+          "file_path" : "file-upload/7d3c6ad6f533438499c0de35b3bb394b_Condomininium Manager - Job Description.pdf",
+          "added_time" : "2022-02-22 22:27:25.027967",
+          "_split_id" : 0,
+          "page" : {
+            "start" : 1,
+            "end" : 1,
+            "page_start_offsets" : {
+              "1" : 0
+            }
+          },
+          "blocks" : [ ]
+        }
+      }
+    ]
+  }
+}

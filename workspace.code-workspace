@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "train",
+			"path": "../UPB_test/UPB-SemEval-2020-Task-6/data/deft_split/subtask1_raw/train"
+		},
+		{
+			"name": "classification",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
